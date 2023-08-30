@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Filipe-Lunfuankenda
 - 👀 I’m interested in learning, sharing and enjoying as much knowledge as possible, hoping to improve and evolve in the IT area in order to contribute to the development of technology as well as help others who are walking in this complex area 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Electronic and Telecommunications as well as any other kinds of IT areas in order to provide a good open mind.
+- 💞️ I’m looking to collaborate on  the development and sharing of programming code and scripts related to simulations, data analysis, mathematical or physical calculations and, if possible, other scientific tasks, Documenting and visualizing various research projects, experiments, and studies.
+- 📫 You can reach me through my Instagram and Threads accounts which are Filipe Lunfuankenda. You can also reach me through my Microsoft account.
 
 <!---
 Filipe-Lunfuankenda/Filipe-Lunfuankenda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
